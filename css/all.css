@@ -586,7 +586,7 @@ transition: all 0.5s ease-in-out;
 	position: relative;
 }
 .footer-content .social li.email a{background: url(../images/icon_email.png) no-repeat 50% 50% ;}
-.footer-content .social li.facebook a{background: url(../images/icon_fb.png) no-repeat 50% 50%;}
+.footer-content .social li.facebook a{background: url(../images/icon_f.png) no-repeat 50% 50%;}
 .footer-content .social li.google a{background: url(../images/icon_gl.png) no-repeat 50% 50% ;}
 .footer-content .social li.github a{background: url(../images/icon_git.png) no-repeat 50% 50% ;}
 .footer-content .social li.linkedin a{background: url(../images/icon_lin.png) no-repeat 50% 50%;}
@@ -673,7 +673,7 @@ transition: all 0.5s ease-in-out;
 		background-size:51px 38px;
 	}
 	.footer-content .social li.facebook a{
-		background-image: url(../images/icon_fb@x2.png);
+		background-image: url(../images/icon_f@x2.png);
 		background-size:20px 38px;
 	}
 	.footer-content .social li.google a{
